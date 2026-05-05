@@ -107,13 +107,7 @@ CondoManagementSystem/
 - **JDBC** - Database connectivity
 - **SHA-256** - Password hashing
 
-## Future Enhancements
-- User role management (admin/tenant)
-- Report generation
-- Email notifications
-- Multi-language support
-- Advanced search and filtering
-- Data export functionality
+
 
 ## Contributing
 Feel free to contribute improvements or report issues!
